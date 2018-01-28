@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow
+FROM tensorflow/tensorflow:0.10.0
 
 MAINTAINER Ben Carson "ben.carson@bigpond.com"
 
